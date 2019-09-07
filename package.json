@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/MFTeg/Project3/issues"
   },
-  "homepage": "https://github.com/MFTeg/Project3#readme"
+  "homepage": "https://github.com/MFTeg/Project3#readme",
+  "dependencies": {
+    "@pusher/chatkit": "^0.7.18",
+    "@pusher/chatkit-client": "^1.12.1",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "devDependencies": {}
 }
